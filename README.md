@@ -29,6 +29,18 @@ The data is taken from: https://www.kaggle.com/robikscube/hourly-energy-consumpt
 
 ---
 
+## __Results__
+
+__Prediction on train data__
+
+![train](./assets/train.png)
+
+__Energy consumption Forecast__
+
+![](./assets/forecast.png)
+
+---
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;**Tech Stack using for the Project**
 
 <a href="https://git-scm.com/">
